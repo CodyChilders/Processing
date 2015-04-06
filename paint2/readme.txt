@@ -1,0 +1,2 @@
+This was my second attempt at making a painting program back when I had only been programming for a couple months.  This one didn't use
+keyboard shortcuts and set colors, instead allowing a click to modify the color, brush shape, and brush size.

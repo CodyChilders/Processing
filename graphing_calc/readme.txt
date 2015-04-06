@@ -1,0 +1,2 @@
+This was an attempt to make a graphing calculator, back when I only had a couple months of programming experience.  You have to enter
+the equation directly into the code, rather than being able to enter one, but it correctly graphs it.

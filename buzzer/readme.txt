@@ -1,0 +1,2 @@
+This was an attempt to make a buzzer to help my friend, who hosted Jeopardy!-like games.  To reduce ambiguity in who answered the 
+question first, this mechanized it, accepting input from one person and locking out the rest.

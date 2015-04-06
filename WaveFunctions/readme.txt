@@ -1,0 +1,1 @@
+This was just a random thing that looked pretty.  It was inspired by what used to be the banner on the G.A.N.G. (Game Audio Network Guild) website.

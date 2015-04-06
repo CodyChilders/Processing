@@ -1,0 +1,1 @@
+This was an attempt to make the gradient that serves as the background to the color selector in Paint.

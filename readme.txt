@@ -1,0 +1,1 @@
+This is an assortment of random Processing sketches that I've made.  Each folder contains a readme explaining more about what it is.

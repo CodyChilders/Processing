@@ -1,0 +1,1 @@
+This was an attempt to make the game of life, back when I only had about two years of programming experience.

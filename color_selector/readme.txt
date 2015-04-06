@@ -1,0 +1,1 @@
+This was an attempt to create the color selector that Photoshop uses when in RGB mode, rather than HSV mode.
